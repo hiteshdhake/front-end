@@ -1,0 +1,10 @@
+mat-toolbar a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+mat-toolbar  a:hover,
+mat-toolbar  a:active {
+    color: lightgrey
+}
